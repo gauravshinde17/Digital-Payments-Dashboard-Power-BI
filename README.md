@@ -7,6 +7,8 @@ It covers **transactions, customers, services, and growth** across four dashboar
 
 The objective is to show **business understanding, clean data modeling, and insight-driven analysis**.
 
+### HOME
+![HOME](Dashboard_Screenshots/HOME.png)
 ---
 
 ## Key Highlights
@@ -96,15 +98,15 @@ True growth peaked in **March**, while user growth is flat, indicating a mature 
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](Dashboard_Screenshots/EXECUTIVE_SUMMARY.png)
 
 ### Customer Analytics
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](Dashboard_Screenshots/CUSTOMER_ANALYTICS.png)
 
 ### Service Performance
-![Service Performance](screenshots/service_performance.png)
+![Service Performance](Dashboard_Screenshots/SERVICE_PERFORMANCE.png)
 
 ### Growth Insights
-![Growth Insights](screenshots/growth_insights.png)
+![Growth Insights](Dashboard_Screenshots/GROWTH_INSIGHTS.png)
 
 
