@@ -33,9 +33,6 @@ The objective is to show **business understanding, clean data modeling, and insi
 **Key Insight:**  
 The platform is stable and scalable with strong seasonal value spikes.
 
-### Executive Summary
-![Executive Summary](Dashboard_Screenshots/EXECUTIVE_SUMMARY.png)
-
 ---
 
 ### 2. Customer Analytics
@@ -46,9 +43,6 @@ The platform is stable and scalable with strong seasonal value spikes.
 
 **Key Insight:**  
 The **26–35 age group** is the most valuable segment, especially in Q4.
-
-### Customer Analytics
-![Customer Analytics](Dashboard_Screenshots/CUSTOMER_ANALYTICS.png)
 
 ---
 
@@ -61,9 +55,6 @@ The **26–35 age group** is the most valuable segment, especially in Q4.
 **Key Insight:**  
 Money Transfer drives most revenue, while Loan services show near-perfect execution.
 
-### Service Performance
-![Service Performance](Dashboard_Screenshots/SERVICE_PERFORMANCE.png)
-
 ---
 
 ### 4. Growth Insights
@@ -74,9 +65,6 @@ Money Transfer drives most revenue, while Loan services show near-perfect execut
 
 **Key Insight:**  
 True growth peaked in **March**, while user growth is flat, indicating a mature market.
-
-### Growth Insights
-![Growth Insights](Dashboard_Screenshots/GROWTH_INSIGHTS.png)
 
 ---
 
@@ -107,5 +95,21 @@ True growth peaked in **March**, while user growth is flat, indicating a mature 
 
 ---
 
+### Executive Summary
+![Executive Summary](Dashboard_Screenshots/EXECUTIVE_SUMMARY.png)
 
+---
+
+### Customer Analytics
+![Customer Analytics](Dashboard_Screenshots/CUSTOMER_ANALYTICS.png)
+
+---
+
+### Service Performance
+![Service Performance](Dashboard_Screenshots/SERVICE_PERFORMANCE.png)
+
+---
+
+### Growth Insights
+![Growth Insights](Dashboard_Screenshots/GROWTH_INSIGHTS.png)
 
