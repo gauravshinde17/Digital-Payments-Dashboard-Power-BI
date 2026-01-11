@@ -17,7 +17,7 @@ The objective is to show **business understanding, clean data modeling, and insi
 - **Total Users:** ~101K  
 - **Overall Success Rate:** ~96%  
 - **Growth Peak:** March (₹30.46M MoM)  
-- **VIP Segment:** Age 16–25 with ₹18.1K average transaction size  
+- **VIP Segment:** Age 18–25 with ₹18.1K average transaction size  
 - **Market Signal:** 0% YoY user growth indicates platform maturity  
 
 ---
@@ -45,7 +45,7 @@ The platform is stable and scalable with strong seasonal value spikes.
 - Quarter-wise demographic shifts  
 
 **Key Insight:**  
-The **16–25 age group** is the most valuable segment, especially in Q4.
+The **18–25 age group** is the most valuable segment, especially in Q4.
 
 ### Customer Analytics
 ![Customer Analytics](Dashboard_Screenshots/CUSTOMER_ANALYTICS.png)
